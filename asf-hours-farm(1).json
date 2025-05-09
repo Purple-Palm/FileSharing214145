@@ -1,0 +1,22 @@
+{
+  "SteamLogin": "vector_228_2",
+  "SteamPassword": "vector228",
+  "Enabled": false,
+  "RemoteCommunication": 0,
+  "SteamUserPermissions": {
+    "76561199465917548": 3
+  },
+  "FarmingOrders": [
+    0
+  ],
+  "FarmingPreferences": 64,
+  "GamesPlayedWhileIdle": [
+    365670,
+    629520,
+    438100
+  ],
+  "CustomGamePlayedWhileFarming": "VRChat",
+  "CustomGamePlayedWhileIdle": "Blender",
+  "OnlineFlags": 2048,
+  "OnlineStatus": 7
+}
